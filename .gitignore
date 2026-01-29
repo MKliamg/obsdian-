@@ -1,0 +1,30 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-workspace
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+
+# 日志
+*.log
+
+# Node.js（如果使用构建工具）
+node_modules/
+npm-debug.log*
+
+# 本地配置
+.env
+.env.local
